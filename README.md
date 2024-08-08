@@ -11,8 +11,11 @@
 
 ## 🖥 Preview
 
-<img align="center" src=".github/preview.png">
+Tela 1
+<img align="center" src=".github/preview-01.png" width="50%">
 
+Tela 2
+<img align="center" src=".github/preview-02.png" width="50%">
 
 ## 🚀 Tecnologias
 
@@ -26,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Jogo de Adivinhação consiste em uma tela ao qual o jogador deve informar um número de 0 a 10, e tentar acertar o número do correto no menor número de tentativas possível.
 Desenvolvido com HTML, CSS e JavaScript.
-
 
 ## 🔖 Layout
 
