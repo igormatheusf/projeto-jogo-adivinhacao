@@ -27,8 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Jogo de Adivinhação consiste em uma tela ao qual o jogador deve informar um número de 0 a 10, e tentar acertar o número do correto no menor número de tentativas possível.
-Desenvolvido com HTML, CSS e JavaScript.
+O projeto Jogo de Adivinhação consiste em uma tela na qual o jogador deve informar um número de 0 a 10, para tentar acertar na menor quantidade de tentativas possível. Desenvolvido com HTML, CSS e JavaScript.
 
 ## 🔖 Layout
 
