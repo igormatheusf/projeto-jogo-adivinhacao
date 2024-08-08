@@ -11,6 +11,7 @@ btnTry.addEventListener('click', handleTryClick)
 btnReset.addEventListener('click', handleResetClick)
 document.addEventListener('keydown', enterReset)
 
+
 // Funções
 function handleTryClick(event) {
     event.preventDefault() // não faz o evento padrão (não envia o formulário)
