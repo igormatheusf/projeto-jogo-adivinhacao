@@ -11,11 +11,11 @@
 
 ## 🖥 Preview
 
-Tela 1
-<img align="center" src=".github/preview-01.png" width="50%">
+Tela 1<br>
+<img align="center" src=".github/preview-01.png">
 
-Tela 2
-<img align="center" src=".github/preview-02.png" width="50%">
+Tela 2<br>
+<img align="center" src=".github/preview-02.png">
 
 ## 🚀 Tecnologias
 
