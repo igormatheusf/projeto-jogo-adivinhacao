@@ -21,7 +21,9 @@ Tela 2<br>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
+- JavaScript
 - Git e Github
 - Figma
 
